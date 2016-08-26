@@ -1,4 +1,6 @@
-#messages_container span.emoji {
+#messages_container span.emoji,
+#messages_container span.emoji-outer,
+#messages_container .emoji-only {
     width: 64px !important;
     height: 64px !important;
 }
