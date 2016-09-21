@@ -1,8 +1,8 @@
 #messages_container span.emoji,
 #messages_container span.emoji-outer,
 #messages_container .emoji-only {
-    width: 64px !important;
-    height: 64px !important;
+    width: 60px !important;
+    height: 60px !important;
 }
 .rxn {
     padding-top: 6px !important;
